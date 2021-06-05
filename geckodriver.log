@@ -1,0 +1,12 @@
+1622873170320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile68I0kG"
+1622873178346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile68I0kG/search.json.mozlz4", (void 0)))
+1622873187149	Marionette	INFO	Listening on port 36687
+1622873187357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622873220846	Marionette	INFO	Stopped listening on port 36687
+1622873255352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezInN4j"
+1622873257789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezInN4j/search.json.mozlz4", (void 0)))
+1622873261442	Marionette	INFO	Listening on port 32877
+1622873262053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622873325298	Marionette	INFO	Stopped listening on port 32877
